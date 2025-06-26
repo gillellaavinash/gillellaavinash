@@ -1,6 +1,9 @@
 # 💫 About Me:
 I'm working on Android Development<br>I'm learnt Java, Kotlin<br>I built projects related to Android Development <br>Looking forward to opportunities in Android Development field
 
+#Profile Views
+![](https://komarev.com/ghpvc/?username=gillellaavinash)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_himmu_gillella_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gillella-avinash-reddy) 
